@@ -1,5 +1,6 @@
 ### move.js
 ---
+https://github.com/visionmedia/move.js/
 
 ```
 component install visionmedia/move.js
