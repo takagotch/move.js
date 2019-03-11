@@ -2,7 +2,7 @@
 ---
 https://github.com/visionmedia/move.js/
 
-```
+```sh
 component install visionmedia/move.js
 npm install move-js
 
